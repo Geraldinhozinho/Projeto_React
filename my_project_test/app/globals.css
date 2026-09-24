@@ -1,0 +1,17 @@
+ 
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+body {
+  min-height: 40vh;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(127, 127, 207);
+}
+
+main {
+  flex: 1;
+}
