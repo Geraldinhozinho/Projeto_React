@@ -6,7 +6,7 @@ export default function Home() {
     <div>
       <h1>Hello World</h1>
 
-      <Link href="/Index">
+      <Link href="/index">
         <button>Ir para Sobre</button>
       </Link>
     </div>
